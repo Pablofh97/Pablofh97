@@ -18,4 +18,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 Thank you for visiting my profile! Feel free to reach out and connect with me.
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Pablofh97.Pablofh97)
+```bash
+Hola
+```
